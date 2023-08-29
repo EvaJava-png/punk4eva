@@ -1,2 +1,3 @@
 # punk4eva
-To open the file you will need a browser capable of html
+To open the file you will need a browser capable of HTML
+All of them have so yeah...
